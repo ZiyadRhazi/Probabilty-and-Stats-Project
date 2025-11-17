@@ -1,1 +1,1 @@
-# Probabilty-and-Stats-Project
+# Bayesian AI for Sensor Data Fusion
